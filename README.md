@@ -14,8 +14,8 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ohanes69&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samarkarian&theme=tokyonight&hide_border=true)
 
-![Stats de Sacha](https://github-readme-stats.vercel.app/api?username=ohanes69&show_icons=true&theme=tokyonight&rank_icon=github)
+![Stats de Sacha](https://github-readme-stats.vercel.app/api?username=samarkarian&show_icons=true&theme=tokyonight&rank_icon=github)
 
 </div>
