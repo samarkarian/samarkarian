@@ -1,5 +1,9 @@
 <div align="center">
 
+<img alt="github-snake" src="https://raw.githubusercontent.com/ROGARD18/ROGARD18/output/github-contribution-grid-snake-dark.svg" />
+  
+---
+  
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
