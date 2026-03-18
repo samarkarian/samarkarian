@@ -17,9 +17,6 @@
 ---
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samarkarian&theme=tokyonight&hide_border=true)
-<br/>
-![Stats de Samarkarian](https://github-readme-stats.vercel.app/api?username=samarkarian&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800)
-
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=samarkarian&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samarkarian&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
 </div>
