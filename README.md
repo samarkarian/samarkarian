@@ -20,6 +20,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samarkarian&theme=tokyonight&hide_border=true)
 
-![Stats de Sacha](https://github-readme-stats.vercel.app/api?username=samarkarian&show_icons=true&theme=tokyonight&rank_icon=github)
+![Stats de Sacha](https://github-readme-stats.vercel.app/api?username=samarkarian&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true)
 
 </div>
